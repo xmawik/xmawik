@@ -1,5 +1,5 @@
 > # Hello! I'm Selffend
-[![Discord Presence](https://lanyard.cnrad.dev/api/1499498694700040253?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)]
+[Discord Presence](https://lanyard.cnrad.dev/api/1499498694700040253?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)
 
 > ## Langugages
 ![Bun](https://shields.io/badge/-Bun-090909?style=for-the-badge&logo=bun)
