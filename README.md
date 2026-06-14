@@ -1,5 +1,5 @@
 > # Hello! I'm Selffend
-[![Discord Presence](https://lanyard.cnrad.dev/api/1130320640486952981?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)](https://selffend.ru)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1499498694700040253?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)]
 
 > ## Langugages
 ![Bun](https://shields.io/badge/-Bun-090909?style=for-the-badge&logo=bun)
@@ -26,5 +26,4 @@
 
 
 > ## Contact with me
-[Links](https://selffend.ru)
-[GitHub](https://github.com/selfend)
+[GitHub](https://github.com/xmawik)
