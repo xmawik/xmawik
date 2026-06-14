@@ -20,9 +20,9 @@
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 
 > ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=selfend&theme=tokyonight&show_icons=true)](https://github.com/selfend)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=xmawik&theme=tokyonight&show_icons=true)](https://github.com/xmawik)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfend&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmawik&theme=tokyonight)
 
 
 > ## Contact with me
